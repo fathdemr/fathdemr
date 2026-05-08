@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Fatih
+<h1 align="center"> Hi there 👋 I'm Fatih </h1>
 
 ### Software Developer • Backend Engineer
 
