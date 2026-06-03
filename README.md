@@ -4,25 +4,9 @@
 
 Currently building backend systems with **Go**. I care about clean architecture, performant services, and code that doesn't make the next person curse.
 
-```go
-package main
-
-import "fmt"
-
-func main() {
-    me := Developer{
-        Role:     "Software Developer",
-        Stack:    []string{"Go", "Backend Systems"},
-        Currently: "Building things that scale",
-        FunFact:  "Coffee-driven development is a real methodology",
-    }
-    fmt.Println(me)
-}
-```
-
 ### What I'm up to
 
-- Designing and building backend services in Go
+- Designing and building backend services in Go and Java
 - Tinkering with distributed systems, APIs, and everything that lives behind the scenes
 - Always digging into something new — performance, architecture, the occasional rabbit hole
 
