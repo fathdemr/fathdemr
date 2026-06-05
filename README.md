@@ -14,11 +14,11 @@ Currently building backend systems with **Go**. I care about clean architecture,
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 3 mins           ███████████▒░░░░░░░░░░░░░   45.46 %
-TypeScript   31 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
-JSON         14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-Markdown     8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Other        8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Go                         1 hr 51 mins          ████████▒░░░░░░░░░░░░░░░░   33.93 %
+Other                      55 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+TypeScript                 32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Markdown                   25 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Makefile                   23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 ```
 
 <!--END_SECTION:waka-->
