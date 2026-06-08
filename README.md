@@ -11,17 +11,7 @@ Currently building backend systems with **Go**. I care about clean architecture,
 - Always digging into something new — performance, architecture, the occasional rabbit hole
 
 
-<!--START_SECTION:waka-->
-
-```txt
-Go                         49 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
-Other                      47 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-Markdown                   29 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Makefile                   23 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-YAML                       22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-```
-
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/d2c6163f-290d-4560-b72b-177dd0adf9a3.svg)](https://wakatime.com/fathdemr)
 
 ### Tech I work with
 
