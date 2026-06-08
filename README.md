@@ -11,7 +11,7 @@ Currently building backend systems with **Go**. I care about clean architecture,
 - Always digging into something new — performance, architecture, the occasional rabbit hole
 
 
-[![wakatime](https://wakatime.com/badge/user/d2c6163f-290d-4560-b72b-177dd0adf9a3.svg)](https://wakatime.com/fathdemr)
+
 [![wakatime](https://wakatime.com/badge/user/d2c6163f-290d-4560-b72b-177dd0adf9a3.svg)](https://wakatime.com/@d2c6163f-290d-4560-b72b-177dd0adf9a3)
 
 ### Tech I work with
