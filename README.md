@@ -2,7 +2,7 @@
 
 ### Software Developer • Backend Engineer
 
-Currently building backend systems with **Go**. I care about clean architecture, performant services, and code that doesn't make the next person curse.
+Currently building backend systems with **Go** and **Java**. I care about clean architecture, performant services, and code that doesn't make the next person curse.
 
 ### What I'm up to
 
