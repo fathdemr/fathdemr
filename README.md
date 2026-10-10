@@ -1,22 +1,23 @@
 <h1 align="center"> Hi there 👋 I'm Fatih </h1>
 
-### Software Developer • Backend Engineer
+**Backend & DevOps-focused Software Engineer**
 
-Currently building backend systems with **Go** and **Java**. I care about clean architecture, performant services, and code that doesn't make the next person curse.
+I build REST APIs and microservices with Python, Go, and Java, with a focus on containerized, cloud-native systems delivered through CI/CD pipelines on AWS. My experience includes LLM integrations, event-driven architectures (Kafka, RabbitMQ), and automation pipelines.
 
-### What I'm up to
+**Currently:** Python Backend Developer @ Alpaco
 
-- Designing and building backend services in Go and Java
-- Tinkering with distributed systems, APIs, and everything that lives behind the scenes
-- Always digging into something new — performance, architecture, the occasional rabbit hole
+## Focus Areas
 
-
+- **Backend:** RESTful API design, microservices, event-driven architecture
+- **DevOps & Cloud:** Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI), AWS (EKS, ECS, EC2, S3)
+- **AI Integration:** LLM integration, OpenAI API, LangChain
 
 [![wakatime](https://wakatime.com/badge/user/d2c6163f-290d-4560-b72b-177dd0adf9a3.svg)](https://wakatime.com/@d2c6163f-290d-4560-b72b-177dd0adf9a3)
 
 ### Tech I work with
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -26,13 +27,11 @@ Currently building backend systems with **Go** and **Java**. I care about clean 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-### Reach me
-
+### Connect
+- LinkedIn: [linkedin.com/in/fatih-demir-60244824a](https://linkedin.com/in/fatih-demir-60244824a)
 - Email: fath.demmr@gmail.com
-
-> _"Make it work, make it right, make it fast."_ — Kent Beck
 
 <!--
 **fathdemr/fathdemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
